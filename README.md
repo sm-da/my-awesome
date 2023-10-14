@@ -421,7 +421,7 @@ A collection of awesome things.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Generative Model Programming
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Neurosymbolic text generation
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [pkumusic/E-DRL](https://github.com/pkumusic/E-DRL) - Exploration Strategies for Deep Reinforcement Learning
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
