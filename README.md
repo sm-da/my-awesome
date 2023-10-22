@@ -1,4 +1,4 @@
-# My Awesome  [![build](https://github.com/svpermari0/my-awesome/workflows/build/badge.svg)](https://github.com/svpermari0/my-awesome/actions)
+# My Awesome  [![build](https://github.com/supermario-ai/my-awesome/workflows/build/badge.svg)](https://github.com/supermario-ai/my-awesome/actions)
 
 A collection of awesome things.
 
@@ -112,6 +112,7 @@ A collection of awesome things.
 - [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) - Anonymously bruteforce Active Directory usernames from Domain Controllers by abusing LDAP Ping requests (cLDAP)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
+- [radius-project/radius](https://github.com/radius-project/radius) - Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
@@ -120,6 +121,7 @@ A collection of awesome things.
 
 - [BEPb/web_crawler](https://github.com/BEPb/web_crawler) - fast and symple web crawler
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
+- [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
@@ -137,6 +139,7 @@ A collection of awesome things.
 
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 
 ## JavaScript
@@ -146,7 +149,7 @@ A collection of awesome things.
 - [FlowiseAI/FlowiseAILandingPage](https://github.com/FlowiseAI/FlowiseAILandingPage) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
-- [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖 AgentVerse 🪐 provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
+- [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -179,6 +182,7 @@ A collection of awesome things.
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
 - [saeedezzati/superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
 - [sheerun/bower-away](https://github.com/sheerun/bower-away) - A tool for migrating away from Bower (to Yarn)
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [varunshenoy/opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨
@@ -261,7 +265,7 @@ A collection of awesome things.
 - [Adlink-ROS/neuronbot2](https://github.com/Adlink-ROS/neuronbot2) - NeuronBot2 is the newest version of NeuronBot made by Adlink, which fully supports ROS1 and ROS2.
 - [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
 - [CiaraStrawberry/TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 - [Coding-Crashkurse/LangChain-Flask-Blog](https://github.com/Coding-Crashkurse/LangChain-Flask-Blog) - 
@@ -347,6 +351,7 @@ A collection of awesome things.
 - [cofactoryai/textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [damo-vilab/videocomposer](https://github.com/damo-vilab/videocomposer) - Official repo for VideoComposer: Compositional Video Synthesis with Motion Controllability
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
@@ -414,6 +419,7 @@ A collection of awesome things.
 - [microsoft/Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation. 
 - [microsoft/chain-reaction](https://github.com/microsoft/chain-reaction) - Python based LLM experimentation tool without code integration of your function(s) for the chain
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
@@ -592,13 +598,16 @@ A collection of awesome things.
 - [Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic) - A compendium of informations regarding Stable Diffusion (SD)
 - [MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies) - 
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [PaulWaltersDev/FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.
 - [PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
 - [ProfSynapse/Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) - 
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Standalone executables for those who don't want to bother with Python. 
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
+- [akikoo/accessibility-testing-tools](https://github.com/akikoo/accessibility-testing-tools) - A collection of useful tools for accessibility testing and debugging in the browser, online and desktop
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 - [altalab/AZ-900T0x-MicrosoftAzureFundamentals](https://github.com/altalab/AZ-900T0x-MicrosoftAzureFundamentals) - Microsoft Azure Fundamentals - AZ-900T00 and AZ-900T01
 - [ancs21/awesome-openai-whisper](https://github.com/ancs21/awesome-openai-whisper) - A curated list of awesome OpenAI's Whisper
+- [automationhacks/testing-checklists](https://github.com/automationhacks/testing-checklists) - A curation of different checklists for testing and automation
 - [awe50me/Awesome-AI](https://github.com/awe50me/Awesome-AI) - A curated list of awesome things related to artificial intelligence tools around the world wide web
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -622,6 +631,7 @@ A collection of awesome things.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [microsoft/AzureSynapseEndToEndDemo](https://github.com/microsoft/AzureSynapseEndToEndDemo) - This repository provides one-click infrastructure and artifact deployment for Azure Synapse Analytics to get you started with Big Data Analytics on a large sized Health Care sample data. You will learn how to ingest, process and serve large volumes of data using various components of Synapse.
@@ -641,6 +651,7 @@ A collection of awesome things.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [tkisason/getting-started-in-infosec](https://github.com/tkisason/getting-started-in-infosec) - A noob friendly guide for juniors starting off in infosec. Pull requests welcome!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
