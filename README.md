@@ -362,7 +362,7 @@ A collection of awesome things.
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [deforum-art/deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - 
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
-- [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j
+- [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Data platform for LLMs - Load, index, retrieve and sync any unstructured data
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
