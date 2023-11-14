@@ -94,7 +94,6 @@ A collection of awesome things.
 
 ## Dockerfile
 
-- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [aschmelyun/docker-compose-wordpress](https://github.com/aschmelyun/docker-compose-wordpress) - A docker-compose workflow for local WordPress development
 
@@ -505,6 +504,7 @@ A collection of awesome things.
 ## Ruby
 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
 
 ## Rust
@@ -521,6 +521,7 @@ A collection of awesome things.
 
 ## Shell
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (from DSM 6.2 to DSM 7.0 and above ; ffmpeg4, 5, 6 ready)
 - [GoogleCloudPlatform/mariadb-docker](https://github.com/GoogleCloudPlatform/mariadb-docker) - 
 - [Josh-XT/Setup](https://github.com/Josh-XT/Setup) - About my PC setup and my scripts to automate workstation and server setup after a fresh OS install.
@@ -549,6 +550,7 @@ A collection of awesome things.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [RicardoValdovinos/vite-react-boilerplate](https://github.com/RicardoValdovinos/vite-react-boilerplate) - A production ready, scalable starter template for Vite + React
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) -  🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with users !  Alternative to OpenAI GPTs 
 - [Tenpi/Waifu2x-GUI](https://github.com/Tenpi/Waifu2x-GUI) - An app that upscales anime-styled images, gifs, and videos with waifu2x.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
@@ -567,7 +569,7 @@ A collection of awesome things.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+- [langgenius/dify](https://github.com/langgenius/dify) - The next-gen development platform - Easily build and operate generative AI applications.  Create Assistants API and GPTs based on any LLMs.
 - [lencx/GPTHub](https://github.com/lencx/GPTHub) - 🔍 Discover the Best in Custom GPT at OpenAI's GPT Store – Your Adventure Begins Here!
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
