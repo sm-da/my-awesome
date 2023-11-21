@@ -456,7 +456,7 @@ A collection of awesome things.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
-- [nasa-petal/discord_bot](https://github.com/nasa-petal/discord_bot) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
+- [nasa-petal/bidara](https://github.com/nasa-petal/bidara) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
 - [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
