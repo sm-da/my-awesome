@@ -542,7 +542,7 @@ A collection of awesome things.
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (from DSM 6.2 to DSM 7.0 and above ; ffmpeg4, 5, 6 ready)
 - [GoogleCloudPlatform/mariadb-docker](https://github.com/GoogleCloudPlatform/mariadb-docker) - 
 - [Josh-XT/Setup](https://github.com/Josh-XT/Setup) - About my PC setup and my scripts to automate workstation and server setup after a fresh OS install.
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all chatgpt's system prompt
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [StanGirard/Serverless-Docker](https://github.com/StanGirard/Serverless-Docker) - Serverless Framework in docker with NodeJS, Python & AWS CLI
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [actions-hub/stylelint](https://github.com/actions-hub/stylelint) - GitHub Action that runs stylelint
