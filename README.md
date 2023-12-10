@@ -25,6 +25,7 @@ A collection of awesome things.
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -57,7 +58,6 @@ A collection of awesome things.
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
@@ -228,8 +228,24 @@ A collection of awesome things.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [aurelio-labs/cookbook](https://github.com/aurelio-labs/cookbook) - 
+- [camenduru/DoctorGPT-colab](https://github.com/camenduru/DoctorGPT-colab) - 
+- [camenduru/Fooocus-docker](https://github.com/camenduru/Fooocus-docker) - 
+- [camenduru/InvokeAI-colab](https://github.com/camenduru/InvokeAI-colab) - 
+- [camenduru/LLaVA-colab](https://github.com/camenduru/LLaVA-colab) - 
+- [camenduru/MiniGPT-4-colab](https://github.com/camenduru/MiniGPT-4-colab) - 
+- [camenduru/MiniGPT-v2-colab](https://github.com/camenduru/MiniGPT-v2-colab) - 
+- [camenduru/ShareGPT4V-colab](https://github.com/camenduru/ShareGPT4V-colab) - 
+- [camenduru/Text-To-Video-Finetuning-colab](https://github.com/camenduru/Text-To-Video-Finetuning-colab) - 
+- [camenduru/ai-creator-archive](https://github.com/camenduru/ai-creator-archive) - AI Creator Archive
+- [camenduru/alpaca-lora-colab](https://github.com/camenduru/alpaca-lora-colab) - Alpaca Lora
+- [camenduru/comfyui-colab](https://github.com/camenduru/comfyui-colab) - comfyui colabs templates new nodes
+- [camenduru/gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 
 - [camenduru/latent-consistency-model-colab](https://github.com/camenduru/latent-consistency-model-colab) - 
+- [camenduru/sdxl-colab](https://github.com/camenduru/sdxl-colab) - 
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
+- [camenduru/stable-diffusion-webui-kaggle](https://github.com/camenduru/stable-diffusion-webui-kaggle) - 
+- [camenduru/stable-diffusion-webui-sagemaker](https://github.com/camenduru/stable-diffusion-webui-sagemaker) - 
+- [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
 - [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
@@ -328,6 +344,7 @@ A collection of awesome things.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [MCG-NKU/AMT](https://github.com/MCG-NKU/AMT) - Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
@@ -385,6 +402,10 @@ A collection of awesome things.
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [camenduru/Qwen-VL-Chat-colab](https://github.com/camenduru/Qwen-VL-Chat-colab) - 
+- [camenduru/stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study) - 
+- [camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) - 
+- [camenduru/train-text-to-image-tpu-tutorial](https://github.com/camenduru/train-text-to-image-tpu-tutorial) - 
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -559,6 +580,10 @@ A collection of awesome things.
 
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 
+## Roff
+
+- [camenduru/stable-diffusion-webui-docker](https://github.com/camenduru/stable-diffusion-webui-docker) - 
+
 ## Ruby
 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -717,6 +742,8 @@ A collection of awesome things.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+- [camenduru/stable-diffusion-webui-runpod](https://github.com/camenduru/stable-diffusion-webui-runpod) - 
+- [camenduru/stable-diffusion-webui-vultr](https://github.com/camenduru/stable-diffusion-webui-vultr) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
