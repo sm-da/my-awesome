@@ -64,6 +64,7 @@ A collection of awesome things.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 ## C#
 
@@ -277,10 +278,12 @@ A collection of awesome things.
 - [promptslab/Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel 
 - [samwit/llm-tutorials](https://github.com/samwit/llm-tutorials) - A set of LLM Tutorials from my youtube channel 
+- [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
 - [yeagerai/genworlds](https://github.com/yeagerai/genworlds) - A framework for event based autonomous multi-agent systems.
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books) - Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning
 
 ## Lua
@@ -574,7 +577,7 @@ A collection of awesome things.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [tomaarsen/attention_sinks](https://github.com/tomaarsen/attention_sinks) - Extend existing LLMs way beyond the original training length with constant memory usage, without retraining
-- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build generative AI apps, chatbots and agents with your data
+- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build LLM Agents, workflows and applications with your data
 - [unconv/gpt-autopilot](https://github.com/unconv/gpt-autopilot) - A GPT-4 powered AI agent that can create full projects with iterative prompting
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -587,7 +590,6 @@ A collection of awesome things.
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)，支持微调Aquila2、Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型
 - [yeagerai/yeagerai-agent](https://github.com/yeagerai/yeagerai-agent) - 
 - [yencarnacion/yt-sum](https://github.com/yencarnacion/yt-sum) - This is a Python script that summarizes a youtube video from a YouTube URL
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
