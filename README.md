@@ -29,6 +29,7 @@ A collection of awesome things.
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
@@ -49,6 +50,7 @@ A collection of awesome things.
 ## Batchfile
 
 - [Sxela/WarpFusion](https://github.com/Sxela/WarpFusion) - WarpFusion
+- [camenduru/stable-diffusion-webui-portable](https://github.com/camenduru/stable-diffusion-webui-portable) - This Project Aims for 100% Offline Stable Diffusion (People without internet or with slow internet can get it via USB or CD)
 - [kkkgo/LTSC-Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - Add Windows Store for LTSC
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
@@ -236,6 +238,7 @@ A collection of awesome things.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [aurelio-labs/cookbook](https://github.com/aurelio-labs/cookbook) - 
 - [camenduru/DoctorGPT-colab](https://github.com/camenduru/DoctorGPT-colab) - 
+- [camenduru/Fooocus-colab](https://github.com/camenduru/Fooocus-colab) - 
 - [camenduru/Fooocus-docker](https://github.com/camenduru/Fooocus-docker) - 
 - [camenduru/InvokeAI-colab](https://github.com/camenduru/InvokeAI-colab) - 
 - [camenduru/LLaVA-colab](https://github.com/camenduru/LLaVA-colab) - 
@@ -246,13 +249,17 @@ A collection of awesome things.
 - [camenduru/ai-creator-archive](https://github.com/camenduru/ai-creator-archive) - AI Creator Archive
 - [camenduru/alpaca-lora-colab](https://github.com/camenduru/alpaca-lora-colab) - Alpaca Lora
 - [camenduru/comfyui-colab](https://github.com/camenduru/comfyui-colab) - comfyui colabs templates new nodes
+- [camenduru/comfyui-lambda](https://github.com/camenduru/comfyui-lambda) - 
 - [camenduru/gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 
 - [camenduru/latent-consistency-model-colab](https://github.com/camenduru/latent-consistency-model-colab) - 
+- [camenduru/llama-2-70b-chat-lambda](https://github.com/camenduru/llama-2-70b-chat-lambda) - 
 - [camenduru/sdxl-colab](https://github.com/camenduru/sdxl-colab) - 
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [camenduru/stable-diffusion-webui-kaggle](https://github.com/camenduru/stable-diffusion-webui-kaggle) - 
+- [camenduru/stable-diffusion-webui-paperspace](https://github.com/camenduru/stable-diffusion-webui-paperspace) - 
 - [camenduru/stable-diffusion-webui-sagemaker](https://github.com/camenduru/stable-diffusion-webui-sagemaker) - 
 - [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
+- [camenduru/text-generation-webui-lambda](https://github.com/camenduru/text-generation-webui-lambda) - 
 - [camenduru/text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 - [cvlab-columbia/viper](https://github.com/cvlab-columbia/viper) - Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
@@ -281,6 +288,7 @@ A collection of awesome things.
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel 
 - [samwit/llm-tutorials](https://github.com/samwit/llm-tutorials) - A set of LLM Tutorials from my youtube channel 
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+- [sm-da/stable-diffusion-webui-kaggle](https://github.com/sm-da/stable-diffusion-webui-kaggle) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [udlbook/udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 - [wilson1yan/VideoGPT](https://github.com/wilson1yan/VideoGPT) - 
@@ -369,7 +377,6 @@ A collection of awesome things.
 - [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
 - [NVlabs/neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
@@ -418,10 +425,18 @@ A collection of awesome things.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [camenduru/DiffBIR-openxlab](https://github.com/camenduru/DiffBIR-openxlab) - 
+- [camenduru/DoctorGPT-openxlab](https://github.com/camenduru/DoctorGPT-openxlab) - 
+- [camenduru/I2VGen-XL-openxlab](https://github.com/camenduru/I2VGen-XL-openxlab) - 
 - [camenduru/InfEdit-hf](https://github.com/camenduru/InfEdit-hf) - 
+- [camenduru/MusicGen-lambda](https://github.com/camenduru/MusicGen-lambda) - 
 - [camenduru/Qwen-VL-Chat-colab](https://github.com/camenduru/Qwen-VL-Chat-colab) - 
+- [camenduru/fabric-lambda](https://github.com/camenduru/fabric-lambda) - 
 - [camenduru/stable-diffusion-webui-artists-to-study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study) - 
 - [camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) - 
+- [camenduru/stable-diffusion-webui-openxlab](https://github.com/camenduru/stable-diffusion-webui-openxlab) - 
+- [camenduru/stable-diffusion-webui-scripts](https://github.com/camenduru/stable-diffusion-webui-scripts) - 
+- [camenduru/stable-video-diffusion-openxlab](https://github.com/camenduru/stable-video-diffusion-openxlab) - 
 - [camenduru/train-text-to-image-tpu-tutorial](https://github.com/camenduru/train-text-to-image-tpu-tutorial) - 
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
@@ -451,7 +466,7 @@ A collection of awesome things.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 - [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Production ready RAG framework - Load, index, retrieve and sync any unstructured data
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
 - [emrgnt-cmplxty/automata](https://github.com/emrgnt-cmplxty/automata) - Automata: The Future is Self-Written
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
@@ -635,12 +650,17 @@ A collection of awesome things.
 
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 
+## ShaderLab
+
+- [camenduru/seamless](https://github.com/camenduru/seamless) - Stable Diffusion Seamless Texture Generator 
+
 ## Shell
 
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (from DSM 6.2 to DSM 7.0 and above ; ffmpeg4, 5, 6 ready)
 - [GoogleCloudPlatform/mariadb-docker](https://github.com/GoogleCloudPlatform/mariadb-docker) - 
 - [Josh-XT/Setup](https://github.com/Josh-XT/Setup) - About my PC setup and my scripts to automate workstation and server setup after a fresh OS install.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [StanGirard/Serverless-Docker](https://github.com/StanGirard/Serverless-Docker) - Serverless Framework in docker with NodeJS, Python & AWS CLI
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [actions-hub/stylelint](https://github.com/actions-hub/stylelint) - GitHub Action that runs stylelint
@@ -703,7 +723,7 @@ A collection of awesome things.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React.
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [microsoft/WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
@@ -739,6 +759,7 @@ A collection of awesome things.
 
 ## Vue
 
+- [camenduru/aica](https://github.com/camenduru/aica) - 
 - [isekaidev/stable.art](https://github.com/isekaidev/stable.art) - Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)
 
 ## Misc
@@ -780,8 +801,12 @@ A collection of awesome things.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+- [camenduru/comfyui-saturncloud](https://github.com/camenduru/comfyui-saturncloud) - 
 - [camenduru/stable-diffusion-webui-runpod](https://github.com/camenduru/stable-diffusion-webui-runpod) - 
+- [camenduru/stable-diffusion-webui-saturncloud](https://github.com/camenduru/stable-diffusion-webui-saturncloud) - 
 - [camenduru/stable-diffusion-webui-vultr](https://github.com/camenduru/stable-diffusion-webui-vultr) - 
+- [camenduru/text-generation-webui-saturncloud](https://github.com/camenduru/text-generation-webui-saturncloud) - 
+- [camenduru/unreal-engine-puzzle-collection-blueprint](https://github.com/camenduru/unreal-engine-puzzle-collection-blueprint) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
