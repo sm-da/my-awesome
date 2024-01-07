@@ -720,7 +720,7 @@ A collection of awesome things.
 - [Azure/business-process-automation](https://github.com/Azure/business-process-automation) - Business process automation solution accelerator using Azure services
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Open Source user-friendly UI application that allows you to easily connect multiple AI models together.
+- [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Open-source tool designed to seamlessly connect multiple AI model APIs in a repeatable flow.
 - [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
 - [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic) - Code Generator - Easily Generate CSS and Tailwind code based on your choice and input
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
