@@ -370,7 +370,7 @@ A collection of awesome things.
 - [GermanT5/wikipedia2corpus](https://github.com/GermanT5/wikipedia2corpus) - Wikipedia text corpus for self-supervised NLP model training
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. 
-- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.
+- [InternLM/InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced 7 and 20 billion parameter base models and chat models.
 - [JasonS09/comfy_sd_krita_plugin](https://github.com/JasonS09/comfy_sd_krita_plugin) - Make AI art between canvas and nodes with Krita.
 - [JayZeeDesign/Knowledgebase-embedding](https://github.com/JayZeeDesign/Knowledgebase-embedding) - Knowledgebase embedding with your company data
 - [JayZeeDesign/gmail-gpt](https://github.com/JayZeeDesign/gmail-gpt) - 
