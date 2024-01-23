@@ -180,7 +180,7 @@ A collection of awesome things.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
 - [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥
@@ -470,7 +470,6 @@ A collection of awesome things.
 - [code-kern-ai/refinery](https://github.com/code-kern-ai/refinery) - The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact.
 - [cofactoryai/textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
@@ -590,7 +589,7 @@ A collection of awesome things.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [pkumusic/E-DRL](https://github.com/pkumusic/E-DRL) - Exploration Strategies for Deep Reinforcement Learning
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
@@ -741,6 +740,7 @@ A collection of awesome things.
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [cfortuner/promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
