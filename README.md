@@ -60,7 +60,6 @@ A collection of awesome things.
 - [DevonCrawford/Video-Editing-Automation](https://github.com/DevonCrawford/Video-Editing-Automation) - Toolkit of algorithms to automate the video editing process
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
@@ -86,6 +85,7 @@ A collection of awesome things.
 ## C++
 
 - [Aleksoid1978/VideoRenderer](https://github.com/Aleksoid1978/VideoRenderer) - Внешний видео-рендерер
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Sentdex/NNfSiX](https://github.com/Sentdex/NNfSiX) - Neural Networks from Scratch in various programming languages
@@ -196,7 +196,6 @@ A collection of awesome things.
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [aws-solutions/video-on-demand-on-aws](https://github.com/aws-solutions/video-on-demand-on-aws) - An automated reference implementation leveraging AWS Step Functions and AWS Media Services to deploy a scalable fault tolerant Video on demand workflow
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [cedmax/youmightnotneed](https://github.com/cedmax/youmightnotneed) - 🤯 A collection of `You might not need ${something}` resources
@@ -208,6 +207,7 @@ A collection of awesome things.
 - [frappe/video](https://github.com/frappe/video) - Node.js based library for automated video creation
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
@@ -215,6 +215,7 @@ A collection of awesome things.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - 
+- [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [nidkil/vuetify-with-storybook](https://github.com/nidkil/vuetify-with-storybook) - Setting up Storybook with Vuetify the right way
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
@@ -294,6 +295,7 @@ A collection of awesome things.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [pieroit/stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - Generate images with Stable Diffusion inside JupyterLab!
@@ -389,7 +391,9 @@ A collection of awesome things.
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [MCG-NKU/AMT](https://github.com/MCG-NKU/AMT) - Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
+- [MNeMoNiCuZ/sd-webui-thumbnailizer](https://github.com/MNeMoNiCuZ/sd-webui-thumbnailizer) - A thumbnail gallery / set management tool for Automatic1111 Webui
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
+- [MrEdwards007/WhisperTaskAcceleration](https://github.com/MrEdwards007/WhisperTaskAcceleration) - Accelerate Whisper tasks such as transcription, by multiprocesing through parallelization
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
@@ -560,6 +564,7 @@ A collection of awesome things.
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+- [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [microsoft/Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation. 
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks. 
 - [microsoft/chain-reaction](https://github.com/microsoft/chain-reaction) - Python based LLM experimentation tool without code integration of your function(s) for the chain
@@ -569,6 +574,7 @@ A collection of awesome things.
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
+- [mix1009/model-keyword](https://github.com/mix1009/model-keyword) - Automatic1111 WEBUI extension to autofill keyword for custom stable diffusion models and LORA models.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [mldsveda/PyScrappy](https://github.com/mldsveda/PyScrappy) - All-in-one Web Scrapper for Python
@@ -584,14 +590,17 @@ A collection of awesome things.
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 - [nimadez/mental-diffusion](https://github.com/nimadez/mental-diffusion) - Stable diffusion command-line interface
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
+- [omniinfer/sd-webui-cloud-inference](https://github.com/omniinfer/sd-webui-cloud-inference) - Stable Diffusion（SDXL/Refiner）WebUI Cloud Inference Extension
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
 - [openai/baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
+- [papuSpartan/stable-diffusion-webui-distributed](https://github.com/papuSpartan/stable-diffusion-webui-distributed) - Chains stable-diffusion-webui instances together to facilitate faster image generation.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [pkumusic/E-DRL](https://github.com/pkumusic/E-DRL) - Exploration Strategies for Deep Reinforcement Learning
 - [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
@@ -679,6 +688,7 @@ A collection of awesome things.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ## SCSS
 
@@ -750,6 +760,7 @@ A collection of awesome things.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [dzhng/llamaflow](https://github.com/dzhng/llamaflow) - The Typescript-first prompt engineering toolkit for working with chat based LLMs.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
+- [exa-labs/exa-js](https://github.com/exa-labs/exa-js) - 
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [felixbrock/lemon-agent](https://github.com/felixbrock/lemon-agent) - Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
@@ -765,6 +776,7 @@ A collection of awesome things.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [microsoft/WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
@@ -800,6 +812,7 @@ A collection of awesome things.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 
 ## Vue
@@ -858,6 +871,7 @@ A collection of awesome things.
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [dangkhoasdc/awesome-ai-residency](https://github.com/dangkhoasdc/awesome-ai-residency) - List of AI Residency Programs
 - [daveshap/AI_Tools_and_Papers](https://github.com/daveshap/AI_Tools_and_Papers) - Some of the coolest AI tools and papers I've found
+- [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 - [daveshap/The_Fair_Deal](https://github.com/daveshap/The_Fair_Deal) - Technology (AI, automation) is disruptive the balance of power in society. We need to negotiate a new social contract. I call it The Fair Deal.
 - [dreamoving/dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -870,6 +884,7 @@ A collection of awesome things.
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform  
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
@@ -911,4 +926,5 @@ A collection of awesome things.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [xlang-ai/xlang-paper-reading](https://github.com/xlang-ai/xlang-paper-reading) - Paper collection on building and evaluating language model agents via executable language grounding
 - [yulunzhang/video-enhancement](https://github.com/yulunzhang/video-enhancement) - A list of resources for video enhancement, including video super-resolutio, interpolation, denoising, compression artifact removal et al..
+- [yzfly/Awesome-Multimodal-Prompts](https://github.com/yzfly/Awesome-Multimodal-Prompts) -  Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. GPT4V Prompts, DALL-E3 Prompts.
 
