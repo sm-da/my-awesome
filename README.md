@@ -148,6 +148,7 @@ A collection of awesome things.
 
 - [BEPb/web_crawler](https://github.com/BEPb/web_crawler) - fast and symple web crawler
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
@@ -176,6 +177,7 @@ A collection of awesome things.
 ## JavaScript
 
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript. 
+- [Anil-matcha/GPT-Auth](https://github.com/Anil-matcha/GPT-Auth) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -187,6 +189,7 @@ A collection of awesome things.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [SamurAIGPT/GPT-Agent](https://github.com/SamurAIGPT/GPT-Agent) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥
+- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -365,6 +368,7 @@ A collection of awesome things.
 - [Bing-su/adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
 - [CiaraStrawberry/TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 - [Coding-Crashkurse/LangChain-Flask-Blog](https://github.com/Coding-Crashkurse/LangChain-Flask-Blog) - 
+- [Codium-ai/AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering""
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Dense Retrieval and Retrieval-augmented LLMs
@@ -375,6 +379,7 @@ A collection of awesome things.
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. 
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2 7B and 20B base and chat models. 200K context support
+- [Interpause/auto-sd-paint-ext](https://github.com/Interpause/auto-sd-paint-ext) - Extension for AUTOMATIC1111 to add custom backend API for Krita Plugin & more
 - [JasonS09/comfy_sd_krita_plugin](https://github.com/JasonS09/comfy_sd_krita_plugin) - Make AI art between canvas and nodes with Krita.
 - [JayZeeDesign/Knowledgebase-embedding](https://github.com/JayZeeDesign/Knowledgebase-embedding) - Knowledgebase embedding with your company data
 - [JayZeeDesign/gmail-gpt](https://github.com/JayZeeDesign/gmail-gpt) - 
@@ -389,7 +394,6 @@ A collection of awesome things.
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [MCG-NKU/AMT](https://github.com/MCG-NKU/AMT) - Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
 - [MNeMoNiCuZ/sd-webui-thumbnailizer](https://github.com/MNeMoNiCuZ/sd-webui-thumbnailizer) - A thumbnail gallery / set management tool for Automatic1111 Webui
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
@@ -413,6 +417,7 @@ A collection of awesome things.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -467,6 +472,7 @@ A collection of awesome things.
 - [camenduru/stable-video-diffusion-openxlab](https://github.com/camenduru/stable-video-diffusion-openxlab) - 
 - [camenduru/train-text-to-image-tpu-tutorial](https://github.com/camenduru/train-text-to-image-tpu-tutorial) - 
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to Blender
+- [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [cocktailpeanut/ComfyUI](https://github.com/cocktailpeanut/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
@@ -524,6 +530,7 @@ A collection of awesome things.
 - [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
@@ -534,6 +541,7 @@ A collection of awesome things.
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included! ☁️🔋🚀
 - [jiupinjia/SkyAR](https://github.com/jiupinjia/SkyAR) - Official Pytorch implementation of the preprint paper "Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos", in arXiv:2010.11800.
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
@@ -585,6 +593,7 @@ A collection of awesome things.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
 - [mpaepper/llm_agents](https://github.com/mpaepper/llm_agents) - Build agents which are controlled by LLMs
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [nasa-petal/bidara](https://github.com/nasa-petal/bidara) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
 - [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
@@ -620,6 +629,7 @@ A collection of awesome things.
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [segmind/distill-sd](https://github.com/segmind/distill-sd) - Segmind Distilled diffusion
 - [serp-ai/ChatGPT-Plugins](https://github.com/serp-ai/ChatGPT-Plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.
 - [sham00n/buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - [ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
@@ -630,6 +640,8 @@ A collection of awesome things.
 - [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions. 
+- [srwi/MockSign](https://github.com/srwi/MockSign) - Easily simulate printing, hand-signing and scanning of documents, inspired by FalsiSign: https://gitlab.com/edouardklein/falsisign
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [state-spaces/mamba](https://github.com/state-spaces/mamba) - 
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
 - [supermario-ai/PixArt-alpha](https://github.com/supermario-ai/PixArt-alpha) - Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
@@ -673,6 +685,7 @@ A collection of awesome things.
 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [discourse/discourse-ai](https://github.com/discourse/discourse-ai) - 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
@@ -736,6 +749,7 @@ A collection of awesome things.
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Open-source tool designed to seamlessly connect multiple AI model APIs in a repeatable flow.
 - [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) - 
 - [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic) - Code Generator - Easily Generate CSS and Tailwind code based on your choice and input
+- [Erisa/sdxl-worker](https://github.com/Erisa/sdxl-worker) - Stable Diffusion XL Workers AI demo
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
@@ -745,6 +759,7 @@ A collection of awesome things.
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI
 - [RicardoValdovinos/vite-react-boilerplate](https://github.com/RicardoValdovinos/vite-react-boilerplate) - A production ready, scalable starter template for Vite + React
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
+- [Skye-31/workers-ai-bot](https://github.com/Skye-31/workers-ai-bot) - A discord bot using Cloudflare Workers AI to do image generation based on text prompts
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 - [Tenpi/Waifu2x-GUI](https://github.com/Tenpi/Waifu2x-GUI) - An app that upscales anime-styled images, gifs, and videos with waifu2x.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
@@ -761,18 +776,20 @@ A collection of awesome things.
 - [dzhng/llamaflow](https://github.com/dzhng/llamaflow) - The Typescript-first prompt engineering toolkit for working with chat based LLMs.
 - [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 - [exa-labs/exa-js](https://github.com/exa-labs/exa-js) - 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 - [felixbrock/lemon-agent](https://github.com/felixbrock/lemon-agent) - Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool
-- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The open source alternative to  OpenAI Assistants API
+- [homanp/superagent](https://github.com/homanp/superagent) - 🥷 The Open Source AI Assistant Framework & API
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [jakowenko/phrame](https://github.com/jakowenko/phrame) - AI-powered digital picture frame. Generate captivating and unique art from spoken conversations.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [lencx/GPTHub](https://github.com/lencx/GPTHub) - 🔍 Discover the Best in Custom GPT at OpenAI's GPT Store – Your Adventure Begins Here!
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
 - [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome) - Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -798,6 +815,7 @@ A collection of awesome things.
 - [rabbit-hole-syndrome/open-source-embeddings](https://github.com/rabbit-hole-syndrome/open-source-embeddings) - Source code for "$0 Embeddings (OpenAI vs. free & open source)" 🎥
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [sevazhidkov/prompts-ai](https://github.com/sevazhidkov/prompts-ai) - Advanced playground for GPT-3
@@ -822,6 +840,7 @@ A collection of awesome things.
 
 ## Misc
 
+- [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [Azure-Samples/cognitive-services-sample-data-files](https://github.com/Azure-Samples/cognitive-services-sample-data-files) - Cognitive Services sample data files
@@ -833,6 +852,7 @@ A collection of awesome things.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Enraged-Rabbit-Community/ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) - Community designed ERCF v2 
 - [FlowiseAI/FlowiseDocs](https://github.com/FlowiseAI/FlowiseDocs) - Docs for Flowise
+- [GreenDeploy-io/oauth-gpt](https://github.com/GreenDeploy-io/oauth-gpt) - Resources and howto for making oauth for your custom gpt in OpenAI's GPT Builder
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
@@ -845,6 +865,7 @@ A collection of awesome things.
 - [ProfSynapse/Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) - 
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python. 
 - [RadientBrain/PDFs-Popular-Libraries-Documentations](https://github.com/RadientBrain/PDFs-Popular-Libraries-Documentations) - 
+- [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama2, Falcon, Bard, and other high-performing open-source LLMs.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -887,6 +908,7 @@ A collection of awesome things.
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform  
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
 - [intel/llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -907,6 +929,7 @@ A collection of awesome things.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
+- [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 - [rlancemartin/generative_agents](https://github.com/rlancemartin/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [rubymorillo/pocket-tech-writing-list](https://github.com/rubymorillo/pocket-tech-writing-list) - A small but formidable list of technical writing resources for developers
